@@ -1,0 +1,7 @@
+ERROR    root:application.py:20 page:http://127.0.0.1:8000/login/, console error: Failed to load resource: the server responded with a status of 404 (Not Found)
+INFO     root:conftest.py:27 preconditions started
+INFO     root:conftest.py:29 postconditions started
+INFO     root:conftest.py:27 preconditions started
+INFO     root:conftest.py:29 postconditions started
+INFO     root:conftest.py:27 preconditions started
+INFO     root:conftest.py:29 postconditions started

@@ -1,0 +1,9 @@
+ERROR    root:application.py:20 page:http://127.0.0.1:8000/login/?next=/, console error: Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ERROR    root:application.py:20 page:http://127.0.0.1:8000/login/, console error: Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ERROR    root:application.py:20 page:http://127.0.0.1:8000/login/, console error: Failed to load resource: the server responded with a status of 404 (Not Found)
+INFO     root:conftest.py:27 preconditions started
+ERROR    root:application.py:20 page:http://127.0.0.1:8000/, console error: Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ERROR    root:application.py:20 page:http://127.0.0.1:8000/demo/, console error: Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ERROR    root:application.py:20 page:http://127.0.0.1:8000/demo/, console error: Hi! I'm the ERROR. Try to catch me
+ERROR    root:application.py:20 page:http://127.0.0.1:8000/demo/waitPage?time=32, console error: Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+INFO     root:conftest.py:29 postconditions started
